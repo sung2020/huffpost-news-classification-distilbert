@@ -13,7 +13,6 @@ What I Did:
 I prepared the text data, trained a DistilBERT model, and checked the results. The notebook shows the main steps I used for the project.
 
 Data:
-
 The dataset is not included in this repository. The notebook has saved outputs, so the results can still be viewed without running the code again.
 
 Tools:
