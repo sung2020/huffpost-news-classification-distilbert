@@ -6,7 +6,7 @@ This project is about classifying news articles from the HuffPost dataset. I use
 Files:
 huffpost_distilbert_report.pdf
 final paper for the project.
-huffpost_distilbert_classification.ipynb
+huffpost_distilbert_clean.ipynb
 notebook with the code and results.
 
 What I Did:
