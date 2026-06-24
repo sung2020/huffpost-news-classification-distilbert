@@ -5,9 +5,9 @@ This project is about classifying news articles from the HuffPost dataset. I use
 
 Files:
 huffpost_distilbert_report.pdf
-Final paper for the project.
+final paper for the project.
 huffpost_distilbert_classification.ipynb
-Notebook with the code and results.
+notebook with the code and results.
 
 What I Did:
 I prepared the text data, trained a DistilBERT model, and checked the results. The notebook shows the main steps I used for the project.
